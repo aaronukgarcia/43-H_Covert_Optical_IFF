@@ -28,6 +28,7 @@ Passive structural colour patches producing unique SWIR spectral signatures coul
 ## Document
 
 📄 **[43-H_Covert_Optical_IFF_Formatted.docx](43-H_Covert_Optical_IFF_Formatted.docx)** — Full collaboration whitepaper
+:bookmark_tabs: **[43-H_Covert_Optical_IFF_Formatted.pdf](43-H_Covert_Optical_IFF_Formatted.pdf)** — PDF export
 
 ## Author
 
